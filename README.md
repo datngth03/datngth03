@@ -2,10 +2,9 @@
 
 - 👀 I'm passionate about **Fintech**, backend systems, and solving real-world problems with technology.
 - 🧠 I love optimizing **database performance** and designing scalable systems.
-- 🌱 Currently deepening my knowledge in **.NET Core**, **SQL Server**, and **AWS** cloud solutions.
+- ⚡ Currently deepening my knowledge in **.NET Core**, **Java**, **SQL Server**, **PostgreSQL** and **AWS** cloud solutions.
 - 💼 I'm open to collaborating on Fintech-related projects or backend development challenges.
 - 📫 Reach me at: datngth03@gmail.com | [LinkedIn](https://linkedin.com/in/datngth9903)
-- ⚡ Fun fact: I enjoy digging into slow SQL queries the same way others enjoy Sudoku. 😄
 
 
 <!---
