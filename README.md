@@ -8,9 +8,9 @@
 - 📚 Check out more articles on [Viblo](https://viblo.asia/u/datngth).
 - 
 # 🚀 LeetCode Profile
-🧠 Username: [datnt03](https://leetcode.com/datnt03/)  
+🧠 Username: [datnt03](https://leetcode.com/u/datnt0903/)  
 📊 LeetCard:  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/datnt03?theme=dark&font=Karma)](https://leetcode.com/datnt03/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/datnt0903?theme=dark&font=Karma)](https://leetcode.com/u/datnt0903/)
 
 <!---
 datngth03/datngth03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
