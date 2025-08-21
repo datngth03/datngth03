@@ -2,7 +2,7 @@
 
 - 👀 I'm passionate about **Fintech**, backend systems, and solving real-world problems with technology.
 - 🧠 I love optimizing **database performance** and designing scalable systems.
-- ⚡ Currently deepening my knowledge in **.NET Core**, **C#**, **Java**, **SQL Server**, **PostgreSQL** and **AWS** cloud solutions.
+- ⚡ Currently deepening my knowledge in **.NET Core**, **C#**, **Go**, **SQL Server**, **PostgreSQL** and **AWS** cloud solutions.
 - 💼 I'm open to collaborating on Fintech-related projects or backend development challenges.
 - 📫 Reach me at: datnt9903@gmail.com | [LinkedIn](https://linkedin.com/in/datngth9903)
 - 📚 Check out more articles on [Viblo](https://viblo.asia/u/datngth).
